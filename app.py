@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import cv2
 import numpy as np
@@ -230,4 +229,3 @@ st.markdown(
     </style>
     """, unsafe_allow_html=True
 )
-
