@@ -1,3 +1,4 @@
+%%writefile app.py
 import streamlit as st
 import cv2
 import numpy as np
@@ -6,6 +7,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 import matplotlib.pyplot as plt
 import os
+import pandas as pd  # Importar pandas
+import seaborn as sns # Importar seaborn
 
 # --- Configuración de la Página de Streamlit ---
 st.set_page_config(
