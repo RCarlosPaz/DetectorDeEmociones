@@ -1,4 +1,5 @@
-torch
-torchvision
-gradio
-Pillow
+streamlit
+opencv-python-headless
+tensorflow
+numpy
+matplotlib
