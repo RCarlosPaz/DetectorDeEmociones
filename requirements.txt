@@ -1,5 +1,7 @@
 streamlit
 opencv-python-headless
-tensorflow
+tensorflow-cpu
 numpy
 matplotlib
+pandas
+seaborn
