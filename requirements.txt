@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-tensorflow-cpu==2.10.0
+tensorflow-cpu
 numpy
 matplotlib
 pandas
