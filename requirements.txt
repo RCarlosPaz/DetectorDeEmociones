@@ -1,7 +1,7 @@
 streamlit
-opencv-python-headless==4.6.0.66
+opencv-python-headless
 tensorflow-cpu
-numpy
+numpy==1.23.5
 matplotlib
 pandas
 seaborn
